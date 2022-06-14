@@ -1,0 +1,3 @@
+PURPOSE of /CoreOS/rear/Sanity/make-backup-and-restore-s390x
+Description: Test basic functionality of ReaR on s390x machines.
+Author: Lukáš Zaoral <lzaoral@redhat.com>
